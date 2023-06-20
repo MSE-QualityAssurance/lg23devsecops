@@ -3,7 +3,7 @@ This project is intended for use as a model to play with some more
 DevSecOps principles in a practical way. 
 
 ## Overview
-This exercise will take you through setting up a simple DevSecOps pipeline
+In this exercise we will take you through setting up a simple DevSecOps pipeline
 for a Python project. The example Python project is a simple client that
 interacts with the OpenWeatherMap API. The project contains some limited
 tests. 
